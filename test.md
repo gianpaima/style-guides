@@ -2,10 +2,10 @@
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
 
- - [Files](https://github.com/gianpaima/style-guides/blob/master/test.md#files)
- - [Create files and folders](https://github.com/gianpaima/style-guides/blob/master/test.md#create-files-and-folders)
- - [Switch to another file](https://github.com/gianpaima/style-guides/blob/master/test.md#switch-to-another-file)
- - [Rename a file](https://github.com/gianpaima/style-guides/blob/master/test.md#rename-a-file)
+ - [Files](#files)
+ - [Create files and folders](#create-files-and-folders)
+ - [Switch to another file](#switch-to-another-file)
+ - [Rename a file](#rename-a-file)
 
 ## Files
 
