@@ -173,7 +173,7 @@ Braces follow the Kernighan and Ritchie style ("[Egyptian brackets](http://www.c
 -   Line break after the closing brace,  _only if_  that brace terminates a statement or terminates the body of a method, constructor, or  _named_  class. For example, there is  _no_  line break after the brace if it is followed by  `else`  or a comma.
 
 Examples:
-
+```java
       return () -> {
       while (condition()) {
         method();
@@ -195,7 +195,7 @@ Examples:
         }
       }
     };
-
+```
 A few exceptions for enum classes are given in,  [Enum classes](#enum-classes).
 
 #### Empty blocks: may be concise
